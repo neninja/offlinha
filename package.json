@@ -1,0 +1,23 @@
+{
+  "name": "offlinha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "gulp test",
+    "serve": "gulp serve",
+    "build": "gulp build",
+    "deploy": "chmod +x deploy.sh;./deploy.sh"
+  },
+  "author": "Felipe Silva",
+  "license": "UNLICENSED",
+  "homepage": "https://neni.dev/offlinha",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "browser-sync": "^2.26.7",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify-es": "^1.0.4"
+  }
+}
