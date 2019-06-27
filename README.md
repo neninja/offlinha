@@ -16,14 +16,17 @@ npm run serve
 npm run deploy
 ```
 ## Metas pessoais de desenvolvimento
-* [x] Usar gulp para build e hot-reload com browser-sync
+* [ ] Usar gulp para build e hot-reload com browser-sync
+    * [ ] Hot-reload com modificações no html, js e css
+    * [x] Build minificado
 * [x] Não utilizar frameworks/bibliotecas externas além do ambiente de desenvolvimento
 * [x] Deploy automatizado
+* [ ] Criar script de webcrawler para atualizar ``store.js``
 
 ## Metas do projeto
-* [ ] Identificar qual época do ano exibir os horários
+* [ ] Identificar qual estação do ano exibir os horários
 * [ ] Permitir que sejam feitas anotações nos horários
-* [ ] Permitir que possa ser visualizado "qual lado possui sol no ônibus"
-* [ ] Permitir exportar anotações e "lado de sol do onibus"
-* [ ] Permitir importar anotações e "lado de sol do onibus"
+* [ ] Permitir que possa ser anotado "qual lado do ônibus possui sol"
+* [ ] Permitir exportar anotações e "lado de sol no onibus"
+* [ ] Permitir importar anotações e "lado de sol no onibus"
 
