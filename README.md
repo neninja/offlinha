@@ -24,6 +24,7 @@ npm run deploy
 * [ ] Criar script de webcrawler para atualizar ``store.js``
 
 ## Metas do projeto
+* [ ] Nem todos onibus vão até o centro, é preciso corrigir o layout e/ou fim da linha do onibus
 * [ ] Identificar qual estação do ano exibir os horários
 * [ ] Permitir que sejam feitas anotações nos horários
 * [ ] Permitir que possa ser anotado "qual lado do ônibus possui sol"
