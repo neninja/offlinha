@@ -1,60 +1,26 @@
-# pandoc
-README.md.pdf
-README.pdf
-readme.md.pdf
-readme.pdf
-*.md.pdf
-*.csv.md
-*.csv.pdf
-*.csv.md.pdf
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# graphviz
-*.dot.pdf
-*.dot.png
-*.gv.pdf
-*.gv.png
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-# latex
-*.aux
-*.bbl
-*.blg
-*-blx.bib
-*.fdb_latexmk
-*.fls
-*.lof
-*.log
-*.lol
-*.lot
-*.maf
-*.mtc
-*.mtc0
-*.out
-*.run.xml
-*.synctex.gz
-*.toc
-*.xmpi
+# testing
+/coverage
 
-# python
-__pycache__/
+# production
+/build
 
-# npm
+# misc
 .DS_Store
-node_modules
-/dist
-/tests/e2e/reports/
-selenium-debug.log
-# local env files
 .env.local
-.env.*.local
-# Log files
+.env.development.local
+.env.test.local
+.env.production.local
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw*
+
+build
+dist

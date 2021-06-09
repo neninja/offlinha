@@ -1,0 +1,3212 @@
+[
+  {
+    "titulo": "Linha 2601 - BELEM VELHO / CASCATINHA",
+    "numero": "2601",
+    "rotasLabel": [
+      "Bairro / Centro",
+      "Centro / Bairro"
+    ],
+    "horarios": [
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "05:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:24"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:09"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:54"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:50"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:55"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:10"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:07"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:15"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:25"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:05"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:35"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "18:15"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "05:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:24"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:09"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:54"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:54"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:50"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:55"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:10"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:07"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:15"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:25"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:05"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:35"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "18:15"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "06:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "13:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:59"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:44"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:29"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:35"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:35"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "13:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:50"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "06:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:50"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "13:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:10"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:55"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:35"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:50"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "06:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "13:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:59"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:44"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:29"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:29"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:25"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:35"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:35"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "13:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:40"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:15"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:50"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "06:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:50"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "13:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:10"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:55"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:35"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:50"
+      }
+    ]
+  },
+  {
+    "titulo": "Linha 286 - BELEM VELHO / CRISTAL / UFRGS",
+    "numero": "286",
+    "rotasLabel": [
+      "Bairro / Terminal",
+      "Terminal / Bairro"
+    ],
+    "horarios": [
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:09"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:48"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:32"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:32"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:32"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "18:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "19:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "20:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "21:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:53"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:27"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:43"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "18:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "19:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "20:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "05:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:27"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "18:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "19:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "21:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:09"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:48"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:32"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:32"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:32"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "18:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "19:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "20:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "21:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:53"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:27"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:43"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "18:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "19:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "20:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "05:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:27"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "18:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "19:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "21:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:09"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:48"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "13:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:10"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:07"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:07"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "19:25"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "20:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "21:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "22:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:53"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:27"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "13:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:43"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "19:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "20:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "21:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "06:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:27"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "19:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "20:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "22:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:03"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:09"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:48"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "13:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:20"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:10"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:07"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:07"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:37"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "19:25"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "20:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "21:45"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "22:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:20"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:53"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:27"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "13:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:43"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:10"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:05"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "19:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "20:45"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "21:45"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "06:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:20"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:27"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:33"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "19:30"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "20:40"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "22:00"
+      }
+    ]
+  },
+  {
+    "titulo": "Linha 289 - RINCAO / VIA OSCAR PEREIRA",
+    "numero": "289",
+    "rotasLabel": [
+      "Bairro / Centro",
+      "Centro / Bairro"
+    ],
+    "horarios": [
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "05:53"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:58"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:50"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:14"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:38"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:08"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:55"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "18:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "06:35"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "08:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "10:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "13:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "14:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "16:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "18:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "07:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "09:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "11:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "15:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "05:53"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:58"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:50"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:14"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:38"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:08"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:55"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "12:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "18:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "06:35"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "08:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "10:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "13:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "14:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "16:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "18:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "07:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "09:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "11:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "15:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p1p2",
+        "horario": "17:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:58"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:50"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:14"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:38"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:08"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:55"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "13:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "19:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "07:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "11:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "14:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "15:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "17:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "19:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "08:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "10:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "16:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "inverno",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:18"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:58"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:28"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:02"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:26"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:50"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:14"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:38"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:08"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:55"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:33"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "13:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:30"
+      },
+      {
+        "dia": "dias úteis",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "19:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "07:30"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "09:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "11:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "14:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "15:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "17:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:00"
+      },
+      {
+        "dia": "sabado",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "19:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "08:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "10:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "12:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "16:00"
+      },
+      {
+        "dia": "domingo",
+        "operacao": "verão",
+        "rota": "p2p1",
+        "horario": "18:00"
+      }
+    ]
+  }
+]
